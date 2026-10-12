@@ -3,6 +3,6 @@ name = "scanner"
 version = "0.1.0"
 description = "This is me trying to port over Java's scanner class so I can redo my college labs to help me learn the language"
 edition = "2026"
-repository = "https://github.com/YOUR_USERNAME/my-scanner"
+repository = "https://github.com/pjones805/scanner"
 
 [dependencies]
