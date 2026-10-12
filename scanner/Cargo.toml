@@ -1,0 +1,10 @@
+[package]
+name = "scanner"
+version = "0.1.1"
+description = "This is me trying to port over Java's scanner class so I can redo my college labs to help me learn the language"
+edition = "2024"
+repository = "https://github.com/pjones805/scanner"
+license = "GPL-v3"
+
+[dependencies]
+
